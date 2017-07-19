@@ -3,7 +3,7 @@ body {
 	font-family: Georgia,"Times New Roman",Times,serif;
 	color: #333333;
 	margin: 0px;
-    padding: 0px;
+    	padding: 0px;
 }
 
 header {
@@ -38,6 +38,7 @@ h2 {
 #bio-image {
 	width: 200px;
 	float: left;
+	margin: 20px;
 }
 
 .container {
