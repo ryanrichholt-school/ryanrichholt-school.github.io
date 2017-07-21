@@ -1,1 +1,1 @@
-# [ryanrichholt-school.github.io](ryanrichholt-school.github.io)
+# [ryanrichholt-school.github.io](http://ryanrichholt-school.github.io)
